@@ -1,0 +1,44 @@
+D:\ООАиП_ПИ\DZ_271ПИ(1)_16.01\Tenchurin Denis\Tenchurin Denis (Matrix)\obj\Debug\123.exe
+D:\ООАиП_ПИ\DZ_271ПИ(1)_16.01\Tenchurin Denis\Tenchurin Denis (Matrix)\obj\Debug\123.pdb
+D:\ООАиП_ПИ\DZ_271ПИ(1)_16.01\Tenchurin Denis\Tenchurin Denis (Matrix)\bin\Debug\123.exe
+D:\ООАиП_ПИ\DZ_271ПИ(1)_16.01\Tenchurin Denis\Tenchurin Denis (Matrix)\bin\Debug\123.pdb
+D:\ООАиП_ПИ\DZ_271ПИ(1)_16.01\Tenchurin Denis\Tenchurin Denis (Matrix)\obj\Debug\ResolveAssemblyReference.cache
+D:\ООАиП_ПИ\DZ_271ПИ(1)_16.01\Tenchurin Denis\Tenchurin Denis (Matrix)\obj\Debug\_23.Form1.resources
+D:\ООАиП_ПИ\DZ_271ПИ(1)_16.01\Tenchurin Denis\Tenchurin Denis (Matrix)\obj\Debug\_23.Properties.Resources.resources
+D:\ООАиП_ПИ\DZ_271ПИ(1)_16.01\Tenchurin Denis\Tenchurin Denis (Matrix)\obj\Debug\Matrix.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Tenchurin Denis (Matrix)\obj\Debug\123.exe
+C:\Users\HP\Desktop\Tenchurin Denis (Matrix)\obj\Debug\123.pdb
+C:\Users\HP\Desktop\Tenchurin Denis (Matrix)\bin\Debug\123.exe
+C:\Users\HP\Desktop\Tenchurin Denis (Matrix)\bin\Debug\123.pdb
+C:\Users\HP\Desktop\Tenchurin Denis (Matrix)\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Tenchurin Denis (Matrix)\obj\Debug\_23.Form1.resources
+C:\Users\HP\Desktop\Tenchurin Denis (Matrix)\obj\Debug\_23.Properties.Resources.resources
+C:\Users\HP\Desktop\Tenchurin Denis (Matrix)\obj\Debug\Matrix.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\ИСРППС_2015\Tenchurin Denis (Matrix)\obj\Debug\123.exe
+C:\Users\HP\Desktop\ИСРППС_2015\Tenchurin Denis (Matrix)\obj\Debug\123.pdb
+C:\Users\HP\Desktop\ИСРППС_2015\Tenchurin Denis (Matrix)\bin\Debug\123.exe
+C:\Users\HP\Desktop\ИСРППС_2015\Tenchurin Denis (Matrix)\bin\Debug\123.pdb
+C:\Users\HP\Desktop\ИСРППС_2015\Tenchurin Denis (Matrix)\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\ИСРППС_2015\Tenchurin Denis (Matrix)\obj\Debug\_23.Form1.resources
+C:\Users\HP\Desktop\ИСРППС_2015\Tenchurin Denis (Matrix)\obj\Debug\_23.Properties.Resources.resources
+C:\Users\HP\Desktop\ИСРППС_2015\Tenchurin Denis (Matrix)\obj\Debug\Matrix.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\ООП_Занятие1\Matrix\obj\Debug\123.exe
+C:\Users\HP\Desktop\ООП_Занятие1\Matrix\obj\Debug\123.pdb
+C:\Users\HP\Desktop\ООП_Занятие1\Matrix\bin\Debug\123.exe
+C:\Users\HP\Desktop\ООП_Занятие1\Matrix\bin\Debug\123.pdb
+C:\Users\HP\Desktop\ООП_Занятие1\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\ООП_Занятие1\Matrix\obj\Debug\_23.Form1.resources
+C:\Users\HP\Desktop\ООП_Занятие1\Matrix\obj\Debug\_23.Properties.Resources.resources
+C:\Users\HP\Desktop\ООП_Занятие1\Matrix\obj\Debug\Matrix.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Осень_2020_Рабочий стол\ООП_Занятие1\Matrix\obj\Debug\123.exe
+C:\Users\HP\Desktop\Осень_2020_Рабочий стол\ООП_Занятие1\Matrix\obj\Debug\123.pdb
+C:\Users\franwindav\Desktop\ООП_Занятие1\Matrix\bin\Debug\123.exe.config
+C:\Users\franwindav\Desktop\ООП_Занятие1\Matrix\bin\Debug\123.exe
+C:\Users\franwindav\Desktop\ООП_Занятие1\Matrix\bin\Debug\123.pdb
+C:\Users\franwindav\Desktop\ООП_Занятие1\Matrix\obj\Debug\Matrix.csproj.AssemblyReference.cache
+C:\Users\franwindav\Desktop\ООП_Занятие1\Matrix\obj\Debug\_23.Form1.resources
+C:\Users\franwindav\Desktop\ООП_Занятие1\Matrix\obj\Debug\_23.Properties.Resources.resources
+C:\Users\franwindav\Desktop\ООП_Занятие1\Matrix\obj\Debug\Matrix.csproj.GenerateResource.cache
+C:\Users\franwindav\Desktop\ООП_Занятие1\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\franwindav\Desktop\ООП_Занятие1\Matrix\obj\Debug\123.exe
+C:\Users\franwindav\Desktop\ООП_Занятие1\Matrix\obj\Debug\123.pdb
