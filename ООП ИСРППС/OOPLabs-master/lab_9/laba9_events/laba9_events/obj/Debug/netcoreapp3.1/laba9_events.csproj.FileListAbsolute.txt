@@ -1,0 +1,13 @@
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_events\laba9_events\bin\Debug\netcoreapp3.1\laba9_events.exe
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_events\laba9_events\bin\Debug\netcoreapp3.1\laba9_events.deps.json
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_events\laba9_events\bin\Debug\netcoreapp3.1\laba9_events.runtimeconfig.json
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_events\laba9_events\bin\Debug\netcoreapp3.1\laba9_events.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_events\laba9_events\bin\Debug\netcoreapp3.1\laba9_events.dll
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_events\laba9_events\bin\Debug\netcoreapp3.1\laba9_events.pdb
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_events\laba9_events\obj\Debug\netcoreapp3.1\laba9_events.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_events\laba9_events\obj\Debug\netcoreapp3.1\laba9_events.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_events\laba9_events\obj\Debug\netcoreapp3.1\laba9_events.AssemblyInfo.cs
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_events\laba9_events\obj\Debug\netcoreapp3.1\laba9_events.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_events\laba9_events\obj\Debug\netcoreapp3.1\laba9_events.dll
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_events\laba9_events\obj\Debug\netcoreapp3.1\laba9_events.pdb
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_events\laba9_events\obj\Debug\netcoreapp3.1\laba9_events.genruntimeconfig.cache

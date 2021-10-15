@@ -1,0 +1,17 @@
+C:\Users\23654\source\repos\lab6_2\bin\Debug\netcoreapp3.1\lab_6.exe
+C:\Users\23654\source\repos\lab6_2\bin\Debug\netcoreapp3.1\lab6_2.exe
+C:\Users\23654\source\repos\lab6_2\bin\Debug\netcoreapp3.1\lab6_2.deps.json
+C:\Users\23654\source\repos\lab6_2\bin\Debug\netcoreapp3.1\lab6_2.runtimeconfig.json
+C:\Users\23654\source\repos\lab6_2\bin\Debug\netcoreapp3.1\lab6_2.runtimeconfig.dev.json
+C:\Users\23654\source\repos\lab6_2\bin\Debug\netcoreapp3.1\lab6_2.dll
+C:\Users\23654\source\repos\lab6_2\bin\Debug\netcoreapp3.1\lab6_2.pdb
+C:\Users\23654\source\repos\lab6_2\bin\Debug\netcoreapp3.1\lab_6.dll
+C:\Users\23654\source\repos\lab6_2\bin\Debug\netcoreapp3.1\lab_6.pdb
+C:\Users\23654\source\repos\lab6_2\obj\Debug\netcoreapp3.1\lab6_2.csprojAssemblyReference.cache
+C:\Users\23654\source\repos\lab6_2\obj\Debug\netcoreapp3.1\lab6_2.AssemblyInfoInputs.cache
+C:\Users\23654\source\repos\lab6_2\obj\Debug\netcoreapp3.1\lab6_2.AssemblyInfo.cs
+C:\Users\23654\source\repos\lab6_2\obj\Debug\netcoreapp3.1\lab6_2.csproj.CoreCompileInputs.cache
+C:\Users\23654\source\repos\lab6_2\obj\Debug\netcoreapp3.1\lab6_2.csproj.CopyComplete
+C:\Users\23654\source\repos\lab6_2\obj\Debug\netcoreapp3.1\lab6_2.dll
+C:\Users\23654\source\repos\lab6_2\obj\Debug\netcoreapp3.1\lab6_2.pdb
+C:\Users\23654\source\repos\lab6_2\obj\Debug\netcoreapp3.1\lab6_2.genruntimeconfig.cache

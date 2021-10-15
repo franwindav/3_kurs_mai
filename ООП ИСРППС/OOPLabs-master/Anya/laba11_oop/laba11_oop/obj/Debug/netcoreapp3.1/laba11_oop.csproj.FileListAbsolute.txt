@@ -1,0 +1,13 @@
+C:\Users\Артур\Desktop\Anya\laba11_oop\laba11_oop\bin\Debug\netcoreapp3.1\laba11_oop.exe
+C:\Users\Артур\Desktop\Anya\laba11_oop\laba11_oop\bin\Debug\netcoreapp3.1\laba11_oop.deps.json
+C:\Users\Артур\Desktop\Anya\laba11_oop\laba11_oop\bin\Debug\netcoreapp3.1\laba11_oop.runtimeconfig.json
+C:\Users\Артур\Desktop\Anya\laba11_oop\laba11_oop\bin\Debug\netcoreapp3.1\laba11_oop.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\Anya\laba11_oop\laba11_oop\bin\Debug\netcoreapp3.1\laba11_oop.dll
+C:\Users\Артур\Desktop\Anya\laba11_oop\laba11_oop\bin\Debug\netcoreapp3.1\laba11_oop.pdb
+C:\Users\Артур\Desktop\Anya\laba11_oop\laba11_oop\obj\Debug\netcoreapp3.1\laba11_oop.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\Anya\laba11_oop\laba11_oop\obj\Debug\netcoreapp3.1\laba11_oop.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\Anya\laba11_oop\laba11_oop\obj\Debug\netcoreapp3.1\laba11_oop.AssemblyInfo.cs
+C:\Users\Артур\Desktop\Anya\laba11_oop\laba11_oop\obj\Debug\netcoreapp3.1\laba11_oop.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Anya\laba11_oop\laba11_oop\obj\Debug\netcoreapp3.1\laba11_oop.dll
+C:\Users\Артур\Desktop\Anya\laba11_oop\laba11_oop\obj\Debug\netcoreapp3.1\laba11_oop.pdb
+C:\Users\Артур\Desktop\Anya\laba11_oop\laba11_oop\obj\Debug\netcoreapp3.1\laba11_oop.genruntimeconfig.cache

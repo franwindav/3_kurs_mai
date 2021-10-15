@@ -1,0 +1,86 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+
+namespace CourseWork.Graph
+{
+    public class Graph
+    {
+        public Graph(int[,] adjacencyMatrix)
+        {
+            var edges = new List<Edge>();
+            for (var i = 0; i < adjacencyMatrix.GetLength(0); i++)
+            {
+                for (var j = 0; j < i; j++)
+                {
+                    if (adjacencyMatrix[i, j] == 1)
+                    {
+                        edges.Add(new Edge() { FirstVertexIndex = i, SecondVertexIndex = j });
+                    }
+                }
+            }
+            _edges = edges.ToArray();
+            _verticesCount = adjacencyMatrix.GetLength(0);
+        }
+
+        private Edge[] _edges;
+        private int _verticesCount;
+
+        public int[] GetArticulationVerticesIndices()
+        {
+            int connectivityComponentsCount = FindConnectivityComponents(_edges).Length;
+            for (var i = 0; i < _verticesCount; i++)
+            {
+                var edges = _edges
+                    .Select(e => new Edge() { FirstVertexIndex = e.FirstVertexIndex, SecondVertexIndex = e.SecondVertexIndex })
+                    .Where(e => e.FirstVertexIndex != i && e.SecondVertexIndex != i)
+                    .ToArray();
+            }
+        }
+
+        private int[][] FindConnectivityComponents(Edge[] edges)
+        {
+            var edgesList = edges.ToList();
+            var result = new List<int[]>();
+            while (edgesList.Count() != 0)
+            {
+                var component = new List<int>();
+                
+                component.Add(edges[0].FirstVertexIndex);
+                var componentSize = 0;
+
+                while (componentSize != component.Count)
+                {
+                    componentSize = component.Count;
+                    for (var i = 0; i < component.Count; i++)
+                    {
+                        var vertex = component[i];
+                        var edgesToRemove = edgesList.Where(e => e.FirstVertexIndex == vertex || e.SecondVertexIndex == vertex);
+                        edgesList = edgesList.Where(e => e.FirstVertexIndex != vertex && e.SecondVertexIndex != vertex).ToList();
+                        foreach (var edgeToRemove in edgesToRemove)
+                        {
+                            component.Add(edgeToRemove.FirstVertexIndex);
+                            component.Add(edgeToRemove.SecondVertexIndex);
+                        }
+                    }
+                    component = component.Distinct().ToList();
+                }
+
+                result.Add(component.ToArray());
+            }
+            return result.ToArray();
+        }
+
+        private int[] GetUniqueVertices(Edge[] edges)
+        {
+            var verticesIndices = new List<int>();
+            foreach (var edge in edges)
+            {
+                verticesIndices.Add(edge.FirstVertexIndex);
+                verticesIndices.Add(edge.SecondVertexIndex);
+            }
+            return verticesIndices.Distinct().ToArray();
+        }
+
+    }
+}

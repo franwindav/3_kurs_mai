@@ -1,0 +1,13 @@
+C:\Users\23654\source\repos\lab_5\bin\Debug\netcoreapp3.1\lab_5.exe
+C:\Users\23654\source\repos\lab_5\bin\Debug\netcoreapp3.1\lab_5.deps.json
+C:\Users\23654\source\repos\lab_5\bin\Debug\netcoreapp3.1\lab_5.runtimeconfig.json
+C:\Users\23654\source\repos\lab_5\bin\Debug\netcoreapp3.1\lab_5.runtimeconfig.dev.json
+C:\Users\23654\source\repos\lab_5\bin\Debug\netcoreapp3.1\lab_5.dll
+C:\Users\23654\source\repos\lab_5\bin\Debug\netcoreapp3.1\lab_5.pdb
+C:\Users\23654\source\repos\lab_5\obj\Debug\netcoreapp3.1\lab_5.csprojAssemblyReference.cache
+C:\Users\23654\source\repos\lab_5\obj\Debug\netcoreapp3.1\lab_5.AssemblyInfoInputs.cache
+C:\Users\23654\source\repos\lab_5\obj\Debug\netcoreapp3.1\lab_5.AssemblyInfo.cs
+C:\Users\23654\source\repos\lab_5\obj\Debug\netcoreapp3.1\lab_5.csproj.CoreCompileInputs.cache
+C:\Users\23654\source\repos\lab_5\obj\Debug\netcoreapp3.1\lab_5.dll
+C:\Users\23654\source\repos\lab_5\obj\Debug\netcoreapp3.1\lab_5.pdb
+C:\Users\23654\source\repos\lab_5\obj\Debug\netcoreapp3.1\lab_5.genruntimeconfig.cache

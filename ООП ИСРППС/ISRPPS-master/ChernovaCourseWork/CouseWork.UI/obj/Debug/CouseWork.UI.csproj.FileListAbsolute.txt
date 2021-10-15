@@ -1,0 +1,8 @@
+C:\Users\castl\source\repos\ChernovaCourseWork\CouseWork.UI\bin\Debug\CouseWork.UI.exe.config
+C:\Users\castl\source\repos\ChernovaCourseWork\CouseWork.UI\bin\Debug\CouseWork.UI.exe
+C:\Users\castl\source\repos\ChernovaCourseWork\CouseWork.UI\bin\Debug\CouseWork.UI.pdb
+C:\Users\castl\source\repos\ChernovaCourseWork\CouseWork.UI\obj\Debug\CouseWork.UI.MainForm.resources
+C:\Users\castl\source\repos\ChernovaCourseWork\CouseWork.UI\obj\Debug\CouseWork.UI.Properties.Resources.resources
+C:\Users\castl\source\repos\ChernovaCourseWork\CouseWork.UI\obj\Debug\CouseWork.UI.csproj.GenerateResource.cache
+C:\Users\castl\source\repos\ChernovaCourseWork\CouseWork.UI\obj\Debug\CouseWork.UI.exe
+C:\Users\castl\source\repos\ChernovaCourseWork\CouseWork.UI\obj\Debug\CouseWork.UI.pdb

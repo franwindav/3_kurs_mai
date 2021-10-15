@@ -1,0 +1,9 @@
+C:\Users\23654\Desktop\3сем\ISRPPS-master\lab10\bin\Debug\lab10.exe.config
+C:\Users\23654\Desktop\3сем\ISRPPS-master\lab10\bin\Debug\lab10.exe
+C:\Users\23654\Desktop\3сем\ISRPPS-master\lab10\bin\Debug\lab10.pdb
+C:\Users\23654\Desktop\3сем\ISRPPS-master\lab10\obj\Debug\lab10.csprojAssemblyReference.cache
+C:\Users\23654\Desktop\3сем\ISRPPS-master\lab10\obj\Debug\lab10.Properties.Resources.resources
+C:\Users\23654\Desktop\3сем\ISRPPS-master\lab10\obj\Debug\lab10.csproj.GenerateResource.cache
+C:\Users\23654\Desktop\3сем\ISRPPS-master\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\23654\Desktop\3сем\ISRPPS-master\lab10\obj\Debug\lab10.exe
+C:\Users\23654\Desktop\3сем\ISRPPS-master\lab10\obj\Debug\lab10.pdb

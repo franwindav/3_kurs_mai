@@ -1,0 +1,13 @@
+C:\Users\Артур\Desktop\Лабы ООП\laba4_2_oop\laba4_2_oop\laba4_2_oop\obj\Debug\netcoreapp3.1\laba4_2_oop.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba4_2_oop\laba4_2_oop\laba4_2_oop\obj\Debug\netcoreapp3.1\laba4_2_oop.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba4_2_oop\laba4_2_oop\laba4_2_oop\obj\Debug\netcoreapp3.1\laba4_2_oop.AssemblyInfo.cs
+C:\Users\Артур\Desktop\Лабы ООП\laba4_2_oop\laba4_2_oop\laba4_2_oop\obj\Debug\netcoreapp3.1\laba4_2_oop.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba4_2_oop\laba4_2_oop\laba4_2_oop\bin\Debug\netcoreapp3.1\laba4_2_oop.exe
+C:\Users\Артур\Desktop\Лабы ООП\laba4_2_oop\laba4_2_oop\laba4_2_oop\bin\Debug\netcoreapp3.1\laba4_2_oop.deps.json
+C:\Users\Артур\Desktop\Лабы ООП\laba4_2_oop\laba4_2_oop\laba4_2_oop\bin\Debug\netcoreapp3.1\laba4_2_oop.runtimeconfig.json
+C:\Users\Артур\Desktop\Лабы ООП\laba4_2_oop\laba4_2_oop\laba4_2_oop\bin\Debug\netcoreapp3.1\laba4_2_oop.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\Лабы ООП\laba4_2_oop\laba4_2_oop\laba4_2_oop\bin\Debug\netcoreapp3.1\laba4_2_oop.dll
+C:\Users\Артур\Desktop\Лабы ООП\laba4_2_oop\laba4_2_oop\laba4_2_oop\bin\Debug\netcoreapp3.1\laba4_2_oop.pdb
+C:\Users\Артур\Desktop\Лабы ООП\laba4_2_oop\laba4_2_oop\laba4_2_oop\obj\Debug\netcoreapp3.1\laba4_2_oop.dll
+C:\Users\Артур\Desktop\Лабы ООП\laba4_2_oop\laba4_2_oop\laba4_2_oop\obj\Debug\netcoreapp3.1\laba4_2_oop.pdb
+C:\Users\Артур\Desktop\Лабы ООП\laba4_2_oop\laba4_2_oop\laba4_2_oop\obj\Debug\netcoreapp3.1\laba4_2_oop.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\Артур\Desktop\laba0_oop\laba0_oop\obj\Debug\netcoreapp3.0\laba0_oop.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\laba0_oop\laba0_oop\obj\Debug\netcoreapp3.0\laba0_oop.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\laba0_oop\laba0_oop\obj\Debug\netcoreapp3.0\laba0_oop.AssemblyInfo.cs
+C:\Users\Артур\Desktop\laba0_oop\laba0_oop\bin\Debug\netcoreapp3.0\laba0_oop.exe
+C:\Users\Артур\Desktop\laba0_oop\laba0_oop\bin\Debug\netcoreapp3.0\laba0_oop.deps.json
+C:\Users\Артур\Desktop\laba0_oop\laba0_oop\bin\Debug\netcoreapp3.0\laba0_oop.runtimeconfig.json
+C:\Users\Артур\Desktop\laba0_oop\laba0_oop\bin\Debug\netcoreapp3.0\laba0_oop.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\laba0_oop\laba0_oop\bin\Debug\netcoreapp3.0\laba0_oop.dll
+C:\Users\Артур\Desktop\laba0_oop\laba0_oop\bin\Debug\netcoreapp3.0\laba0_oop.pdb
+C:\Users\Артур\Desktop\laba0_oop\laba0_oop\obj\Debug\netcoreapp3.0\laba0_oop.dll
+C:\Users\Артур\Desktop\laba0_oop\laba0_oop\obj\Debug\netcoreapp3.0\laba0_oop.pdb

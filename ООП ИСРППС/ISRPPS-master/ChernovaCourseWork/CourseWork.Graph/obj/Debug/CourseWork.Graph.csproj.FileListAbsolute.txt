@@ -1,0 +1,14 @@
+C:/Users/castl/source/repos/ChernovaCourseWork/CourseWork.Graph/bin/Debug/CourseWork.Graph.dll
+C:/Users/castl/source/repos/ChernovaCourseWork/CourseWork.Graph/bin/Debug/CourseWork.Graph.pdb
+C:/Users/castl/source/repos/ChernovaCourseWork/CourseWork.Graph/obj/Debug/CourseWork.Graph.dll
+C:/Users/castl/source/repos/ChernovaCourseWork/CourseWork.Graph/obj/Debug/CourseWork.Graph.pdb
+/Users/ambossador/Downloads/ChernovaCourseWork/CourseWork.Graph/bin/Debug/CourseWork.Graph.dll
+/Users/ambossador/Downloads/ChernovaCourseWork/CourseWork.Graph/bin/Debug/CourseWork.Graph.pdb
+/Users/ambossador/Downloads/ChernovaCourseWork/CourseWork.Graph/obj/Debug/CourseWork.Graph.dll
+/Users/ambossador/Downloads/ChernovaCourseWork/CourseWork.Graph/obj/Debug/CourseWork.Graph.pdb
+C:\Users\23654\Desktop\3сем\ISRPPS-master\ChernovaCourseWork\CourseWork.Graph\bin\Debug\CourseWork.Graph.dll
+C:\Users\23654\Desktop\3сем\ISRPPS-master\ChernovaCourseWork\CourseWork.Graph\bin\Debug\CourseWork.Graph.pdb
+C:\Users\23654\Desktop\3сем\ISRPPS-master\ChernovaCourseWork\CourseWork.Graph\obj\Debug\CourseWork.Graph.csprojAssemblyReference.cache
+C:\Users\23654\Desktop\3сем\ISRPPS-master\ChernovaCourseWork\CourseWork.Graph\obj\Debug\CourseWork.Graph.csproj.CoreCompileInputs.cache
+C:\Users\23654\Desktop\3сем\ISRPPS-master\ChernovaCourseWork\CourseWork.Graph\obj\Debug\CourseWork.Graph.dll
+C:\Users\23654\Desktop\3сем\ISRPPS-master\ChernovaCourseWork\CourseWork.Graph\obj\Debug\CourseWork.Graph.pdb

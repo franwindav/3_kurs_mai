@@ -1,0 +1,10 @@
+C:\Users\Анастасия\Documents\Visual Studio 2017\Projects\ISRPPS\lab7\bin\Debug\lab7.exe.config
+C:\Users\Анастасия\Documents\Visual Studio 2017\Projects\ISRPPS\lab7\bin\Debug\lab7.exe
+C:\Users\Анастасия\Documents\Visual Studio 2017\Projects\ISRPPS\lab7\bin\Debug\lab7.pdb
+C:\Users\Анастасия\Documents\Visual Studio 2017\Projects\ISRPPS\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+C:\Users\Анастасия\Documents\Visual Studio 2017\Projects\ISRPPS\lab7\obj\Debug\lab7.Form1.resources
+C:\Users\Анастасия\Documents\Visual Studio 2017\Projects\ISRPPS\lab7\obj\Debug\lab7.Properties.Resources.resources
+C:\Users\Анастасия\Documents\Visual Studio 2017\Projects\ISRPPS\lab7\obj\Debug\lab7.csproj.GenerateResource.cache
+C:\Users\Анастасия\Documents\Visual Studio 2017\Projects\ISRPPS\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Documents\Visual Studio 2017\Projects\ISRPPS\lab7\obj\Debug\lab7.exe
+C:\Users\Анастасия\Documents\Visual Studio 2017\Projects\ISRPPS\lab7\obj\Debug\lab7.pdb
