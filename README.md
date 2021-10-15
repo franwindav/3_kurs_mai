@@ -1,5 +1,5 @@
-# Полезные ссылки
-
+# Полезные ссылки :shipit:
+> "ХАЛЯВА" :alien:
 
 * [Записи лаб по теормеху](https://drive.google.com/drive/folders/1PC93Fos1_8R16QFjcQUE6vc8bgzsNhqR)
 *  [Записи олимпиад по теормеху](https://drive.google.com/drive/folders/1zllizehIqxgf85t8VOZHJYfKZWC_wjGK)
@@ -19,3 +19,5 @@
 *  [Дохуя инфы](https://disk.yandex.ru/d/l1Ov3i1aiS15nQ)
 *  [Записи пар и прочее](https://vk.com/club202762869)
 *  [файлики с sharepoint](https://herncpa-my.sharepoint.com/personal/dr709_365proplus_site/_layouts/15/onedrive.aspx?originalPath=aHR0cHM6Ly9oZXJuY3BhLW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL2RyNzA5XzM2NXByb3BsdXNfc2l0ZS9Fdjg5bkt6dlBRZE9ubUY2akdiclZZSUJNM2NWc3hNOUlnZVl0MkotdWR3MkRnP3J0aW1lPV9EY2o0ZGVQMlVn&id=%2Fpersonal%2Fdr709_365proplus_site%2FDocuments%2F3-4%20сем)
+*  [Теормех кр №1](https://drive.google.com/drive/folders/1z9hfFgsj3vLRmfaxRnq-4aCr-erXqlce)
+*  [Теормех кр №2](https://drive.google.com/drive/folders/1RQ8w14Et-HGlU-lC6oiy_1YQYD6dq1Rk)
