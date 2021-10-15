@@ -1,5 +1,4 @@
-# Полезные ссылки
-
+# Полезности
 
 * [Записи лаб по теормеху](https://drive.google.com/drive/folders/1PC93Fos1_8R16QFjcQUE6vc8bgzsNhqR)
 *  [Записи олимпиад по теормеху](https://drive.google.com/drive/folders/1zllizehIqxgf85t8VOZHJYfKZWC_wjGK)
