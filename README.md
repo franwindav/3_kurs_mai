@@ -3,8 +3,8 @@
 
 * [Записи лаб по теормеху](https://drive.google.com/drive/folders/1PC93Fos1_8R16QFjcQUE6vc8bgzsNhqR)
 *  [Записи олимпиад по теормеху](https://drive.google.com/drive/folders/1zllizehIqxgf85t8VOZHJYfKZWC_wjGK)
-*  Конторольная работа по матану: 1. 
-			** [1 ссылка](https://drive.google.com/file/d/1TW6kOMU_3x5HbSNgKVZqHF7kM9BhPFUU/view)
+*  Конторольная работа по матану:
+			* [1 ссылка](https://drive.google.com/file/d/1TW6kOMU_3x5HbSNgKVZqHF7kM9BhPFUU/view)
 			**  [2 ссылка](https://drive.google.com/drive/folders/1JXiFVOj83yHV0eoiGRecaLEYYCSgecTA)
 			**   [3 ссылка](https://drive.google.com/file/d/11ZrpDQ6Oqa3YLT2mEkiHExUc36-254F7/view)
 *  [Первая контрольная работа по дифурам](https://docs.google.com/document/d/1NDeRfIZR8FINhP32I2sPxqXhVSQEkfPL/edit), [ещё](https://drive.google.com/drive/folders/1mhK5sv9pAV7M1bDkiaG019guaX4lxTp4)
