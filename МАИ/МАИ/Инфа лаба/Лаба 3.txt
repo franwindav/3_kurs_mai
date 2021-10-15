@@ -1,0 +1,63 @@
+#include <iostream>
+#include <time.h>
+#include <conio.h>
+
+int main()
+{
+	srand(static_cast<unsigned int>(time(NULL)));
+
+	int count = 0;
+
+	double amount = 0.0, A[5][5] = { 0 }, B[5][5] = { 0 };
+	for (int i = 0; i < 5; i++)
+	{
+		for (int j = 0; j < 5; j++)
+		{
+			A[i][j] = rand() - rand();
+			B[i][j] = rand() - rand();
+			printf("%8.1f %8.1f\n", A[i][j], B[i][j]);
+		}
+		printf("\n");
+	}
+
+	f
+		or (int i = 0; i < 5; i++)
+	{
+		for (int j = 0; j < 5; j++)
+		{
+			// % - это деление по модулю. В данном случае по модулю два (проверяем, что столбец чётный)
+			// И элемент массива больше нуля
+			if (j % 2 == 0 && A[i][j] > 0)
+			{
+				// Прибавляем к текущему значению переменной amount значение текущего элемента массива Array
+				// И увеличиваем значение переменной count на единицу
+				amount += A[i][j];
+				count++;
+			}
+		}
+	}
+
+	// Выводим результаты на консоль
+	printf("\ncount = %d\namount = %d\n", count, amount);
+
+	count = 0; amount = 0;
+
+	for (int i = 0; i < 5; i++)
+	{
+		for (int j = 0; j < 5; j++)
+		{
+			if (j % 2 == 0 && B[i][j] > 0)
+			{
+				amount += B[i][j];
+				count++;
+			}
+		}
+	}
+
+	// Выводим результаты на консоль
+	printf("\ncount = %d\namount = %d\n", count, amount);
+
+	system("pause");
+	// Конец работы. Завершаем программу с кодом 0 (сигнал об отсутствии ошибок)
+	return 0;
+}

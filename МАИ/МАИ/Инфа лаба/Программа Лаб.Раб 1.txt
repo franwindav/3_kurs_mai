@@ -1,0 +1,37 @@
+#include <iostream>
+using namespace std;
+void main()
+{
+	setlocale(LC_ALL, "Russian");
+	int A[4][6], C[4];
+	int i, j, max = -32768;
+	for (j = 0; j<4; j++)
+	{
+		for (i = 0; i<4; i++)
+		{
+			cout << "Ёлемент массива A[" << j << "][" << i << "]" << endl;
+			cin >> A[j][i];
+		}
+	}
+	for (i = 0; i<4; i++)
+	{
+		if (A[i][5]>0)
+		{
+			for (j = 0; j<6; j++)
+			{
+				if (A[1][j]>max)
+				{
+					max = A[1][j];
+				}
+			}
+			C[i] = max;
+		}
+		if (A[i][5] <= 0)
+		{
+			C[i] = 0;
+		}
+		cout << max << " ";
+	}
+
+	system("pause");
+}
