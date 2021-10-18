@@ -1,0 +1,13 @@
+C:\Users\Артур\Desktop\Лабы ООП\laba_nekit\laba_nekit\bin\Debug\netcoreapp3.1\laba_nekit.exe
+C:\Users\Артур\Desktop\Лабы ООП\laba_nekit\laba_nekit\bin\Debug\netcoreapp3.1\laba_nekit.deps.json
+C:\Users\Артур\Desktop\Лабы ООП\laba_nekit\laba_nekit\bin\Debug\netcoreapp3.1\laba_nekit.runtimeconfig.json
+C:\Users\Артур\Desktop\Лабы ООП\laba_nekit\laba_nekit\bin\Debug\netcoreapp3.1\laba_nekit.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\Лабы ООП\laba_nekit\laba_nekit\bin\Debug\netcoreapp3.1\laba_nekit.dll
+C:\Users\Артур\Desktop\Лабы ООП\laba_nekit\laba_nekit\bin\Debug\netcoreapp3.1\laba_nekit.pdb
+C:\Users\Артур\Desktop\Лабы ООП\laba_nekit\laba_nekit\obj\Debug\netcoreapp3.1\laba_nekit.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba_nekit\laba_nekit\obj\Debug\netcoreapp3.1\laba_nekit.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba_nekit\laba_nekit\obj\Debug\netcoreapp3.1\laba_nekit.AssemblyInfo.cs
+C:\Users\Артур\Desktop\Лабы ООП\laba_nekit\laba_nekit\obj\Debug\netcoreapp3.1\laba_nekit.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba_nekit\laba_nekit\obj\Debug\netcoreapp3.1\laba_nekit.dll
+C:\Users\Артур\Desktop\Лабы ООП\laba_nekit\laba_nekit\obj\Debug\netcoreapp3.1\laba_nekit.pdb
+C:\Users\Артур\Desktop\Лабы ООП\laba_nekit\laba_nekit\obj\Debug\netcoreapp3.1\laba_nekit.genruntimeconfig.cache

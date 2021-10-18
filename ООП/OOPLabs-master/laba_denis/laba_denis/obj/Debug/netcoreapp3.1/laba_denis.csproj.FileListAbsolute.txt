@@ -1,0 +1,13 @@
+C:\Users\Артур\Desktop\Лабы ООП\laba_denis\laba_denis\bin\Debug\netcoreapp3.1\laba_denis.exe
+C:\Users\Артур\Desktop\Лабы ООП\laba_denis\laba_denis\bin\Debug\netcoreapp3.1\laba_denis.deps.json
+C:\Users\Артур\Desktop\Лабы ООП\laba_denis\laba_denis\bin\Debug\netcoreapp3.1\laba_denis.runtimeconfig.json
+C:\Users\Артур\Desktop\Лабы ООП\laba_denis\laba_denis\bin\Debug\netcoreapp3.1\laba_denis.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\Лабы ООП\laba_denis\laba_denis\bin\Debug\netcoreapp3.1\laba_denis.dll
+C:\Users\Артур\Desktop\Лабы ООП\laba_denis\laba_denis\bin\Debug\netcoreapp3.1\laba_denis.pdb
+C:\Users\Артур\Desktop\Лабы ООП\laba_denis\laba_denis\obj\Debug\netcoreapp3.1\laba_denis.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba_denis\laba_denis\obj\Debug\netcoreapp3.1\laba_denis.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba_denis\laba_denis\obj\Debug\netcoreapp3.1\laba_denis.AssemblyInfo.cs
+C:\Users\Артур\Desktop\Лабы ООП\laba_denis\laba_denis\obj\Debug\netcoreapp3.1\laba_denis.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba_denis\laba_denis\obj\Debug\netcoreapp3.1\laba_denis.dll
+C:\Users\Артур\Desktop\Лабы ООП\laba_denis\laba_denis\obj\Debug\netcoreapp3.1\laba_denis.pdb
+C:\Users\Артур\Desktop\Лабы ООП\laba_denis\laba_denis\obj\Debug\netcoreapp3.1\laba_denis.genruntimeconfig.cache

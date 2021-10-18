@@ -13,11 +13,11 @@
 
 
 * [Записи пар и прочее](https://vk.com/club202762869)
-
+---
 ## Курсачи и лабы
 
 *  [Курсач по дифурам](https://drive.google.com/drive/folders/1C7UGP-GUV7sCh8ANHsQ-ccS_F9EVQ2LB)
-
+---
 ## Контрольные
 
 *  Конторольная работа по матану: 
@@ -31,7 +31,7 @@
 
 *  [Теормех кр №1](https://drive.google.com/drive/folders/1z9hfFgsj3vLRmfaxRnq-4aCr-erXqlce)
 *  [Теормех кр №2](https://drive.google.com/drive/folders/1RQ8w14Et-HGlU-lC6oiy_1YQYD6dq1Rk)
-
+---
 ## Сессия
 
 *  Сессия по физике: 
@@ -41,7 +41,7 @@
 
 
 *  [Матан задачи с экзамена](https://docs.google.com/document/d/1a_U2TisG8Mvlk5VjWB3RiWQi7hv_HvrFNWvvLED_i2s/edit)
-
+---
 ## Прочее
 
 *  [Дохуя инфы](https://disk.yandex.ru/d/l1Ov3i1aiS15nQ)
@@ -50,3 +50,7 @@
 
 
 *  [Предметы и материалы с диска UCvim](https://drive.google.com/drive/folders/1lSgIVzjrgKPL8u_UAwHLb3SZmWQ5X2oj)
+
+----
+
+***Для добавления новых ссылок и файлов обращаться к [franwindav](<https://vk.com/franwindav>)***

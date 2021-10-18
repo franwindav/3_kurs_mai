@@ -1,0 +1,13 @@
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_contravariants\laba9_contravariants\bin\Debug\netcoreapp3.1\laba9_contravariants.exe
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_contravariants\laba9_contravariants\bin\Debug\netcoreapp3.1\laba9_contravariants.deps.json
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_contravariants\laba9_contravariants\bin\Debug\netcoreapp3.1\laba9_contravariants.runtimeconfig.json
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_contravariants\laba9_contravariants\bin\Debug\netcoreapp3.1\laba9_contravariants.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_contravariants\laba9_contravariants\bin\Debug\netcoreapp3.1\laba9_contravariants.dll
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_contravariants\laba9_contravariants\bin\Debug\netcoreapp3.1\laba9_contravariants.pdb
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_contravariants\laba9_contravariants\obj\Debug\netcoreapp3.1\laba9_contravariants.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_contravariants\laba9_contravariants\obj\Debug\netcoreapp3.1\laba9_contravariants.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_contravariants\laba9_contravariants\obj\Debug\netcoreapp3.1\laba9_contravariants.AssemblyInfo.cs
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_contravariants\laba9_contravariants\obj\Debug\netcoreapp3.1\laba9_contravariants.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_contravariants\laba9_contravariants\obj\Debug\netcoreapp3.1\laba9_contravariants.dll
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_contravariants\laba9_contravariants\obj\Debug\netcoreapp3.1\laba9_contravariants.pdb
+C:\Users\Артур\Desktop\Лабы ООП\laba9_oop\laba9_contravariants\laba9_contravariants\obj\Debug\netcoreapp3.1\laba9_contravariants.genruntimeconfig.cache

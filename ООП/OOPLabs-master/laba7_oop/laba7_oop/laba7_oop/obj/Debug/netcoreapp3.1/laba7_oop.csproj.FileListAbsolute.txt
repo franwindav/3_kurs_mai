@@ -1,0 +1,13 @@
+C:\Users\Артур\Desktop\Лабы ООП\laba7_oop\laba7_oop\laba7_oop\bin\Debug\netcoreapp3.1\laba7_oop.exe
+C:\Users\Артур\Desktop\Лабы ООП\laba7_oop\laba7_oop\laba7_oop\bin\Debug\netcoreapp3.1\laba7_oop.deps.json
+C:\Users\Артур\Desktop\Лабы ООП\laba7_oop\laba7_oop\laba7_oop\bin\Debug\netcoreapp3.1\laba7_oop.runtimeconfig.json
+C:\Users\Артур\Desktop\Лабы ООП\laba7_oop\laba7_oop\laba7_oop\bin\Debug\netcoreapp3.1\laba7_oop.runtimeconfig.dev.json
+C:\Users\Артур\Desktop\Лабы ООП\laba7_oop\laba7_oop\laba7_oop\bin\Debug\netcoreapp3.1\laba7_oop.dll
+C:\Users\Артур\Desktop\Лабы ООП\laba7_oop\laba7_oop\laba7_oop\bin\Debug\netcoreapp3.1\laba7_oop.pdb
+C:\Users\Артур\Desktop\Лабы ООП\laba7_oop\laba7_oop\laba7_oop\obj\Debug\netcoreapp3.1\laba7_oop.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba7_oop\laba7_oop\laba7_oop\obj\Debug\netcoreapp3.1\laba7_oop.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba7_oop\laba7_oop\laba7_oop\obj\Debug\netcoreapp3.1\laba7_oop.AssemblyInfo.cs
+C:\Users\Артур\Desktop\Лабы ООП\laba7_oop\laba7_oop\laba7_oop\obj\Debug\netcoreapp3.1\laba7_oop.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Лабы ООП\laba7_oop\laba7_oop\laba7_oop\obj\Debug\netcoreapp3.1\laba7_oop.dll
+C:\Users\Артур\Desktop\Лабы ООП\laba7_oop\laba7_oop\laba7_oop\obj\Debug\netcoreapp3.1\laba7_oop.pdb
+C:\Users\Артур\Desktop\Лабы ООП\laba7_oop\laba7_oop\laba7_oop\obj\Debug\netcoreapp3.1\laba7_oop.genruntimeconfig.cache

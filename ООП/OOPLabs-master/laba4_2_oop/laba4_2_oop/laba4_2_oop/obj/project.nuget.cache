@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PNl1xcECxa/TSZIW2+HPYn8OdNy4Gyi2k07Vr/4inrkPSMMMD3g/6krtDro+AqgY77Ziq5/0iiJ8E/6mIKRRlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\franwindav\\Desktop\\OOPLabs-master\\laba4_2_oop\\laba4_2_oop\\laba4_2_oop\\laba4_2_oop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franwindav\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.16\\microsoft.netcore.app.host.win-x64.3.1.16.nupkg.sha512",
+    "C:\\Users\\franwindav\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\franwindav\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\franwindav\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
